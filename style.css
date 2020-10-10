@@ -1,0 +1,15 @@
+.header{
+    background-color: pink;
+    display:flex;
+    justify-content: space-evenly;
+}
+
+.games{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+h3{
+    text-align: center;
+}
